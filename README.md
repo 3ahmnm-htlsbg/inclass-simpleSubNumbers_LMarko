@@ -10,7 +10,7 @@ Unity 2019.1.14f1 + Visual Studio 2017
 WebGL
 
 ### Visuals: 
-<img src = "screenshots/Screenshot.JPG" width="500">
+<img src = "./screenshots/Screenshot.JPG" width="500">
 
 ### Project state: 
 Operators finished. It's possible to subtract 2 numbers.
