@@ -1,28 +1,20 @@
-# Unity2019114f1-2D-Template
+# Read Me
 
 ### Project description: 
-Introduction/Project summary 
+Project to subtract numbers 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 2019.1.14f1 + Visual Studio 2017
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+<<img src = "./screenshots/Screenshot.JPG" width="500">
 
 ### Project state: 
-incl. progress in percent
-
-### Limitations: 
+Operators finished. It's possible to subtract 2 numbers.
 
 ### Lessons Learned: 
+Learned how to code a subtraction application
 
-Copyright by you :)
